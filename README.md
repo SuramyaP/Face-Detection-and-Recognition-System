@@ -1,3 +1,3 @@
 # Face-Detection-and-Recognition-System
 
-System to detect and recognize faces.
+A system to detect and recognize faces.
